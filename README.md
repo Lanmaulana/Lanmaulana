@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=420&lines=Frontend+%7C+Backend+%7C+Fullstack;HTML+%2F+CSS+%2F+JS;PHP+%2F+Laravel+%2F+MySQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=420&lines=Frontend+%7C+Backend+%7C+Fullstack;Web+%7CDeveloper+%7C+JS;PHP+%2F+Laravel+%2F+MySQL" alt="Typing SVG" />
 </p>
 
 ---
