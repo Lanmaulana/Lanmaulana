@@ -43,9 +43,6 @@
 </p>
 
 ---
-
-### 🔥 Animasi Kontribusi Api
-
 ### 🔥 Animasi Kontribusi Api
 
 <p align="center">
