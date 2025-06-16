@@ -46,5 +46,5 @@
 ### 🐍 Animasi Kontribusi GitHub
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?user_name=Lanmaulana&theme=dark,flame" alt="github contribution snake flame animation" />
+  <img src="https://raw.githubusercontent.com/kerriganst/kerriganst/main/files/flame.gif" width="100%">
 </p>
