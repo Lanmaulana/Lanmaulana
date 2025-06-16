@@ -40,11 +40,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lanmaulana&theme=tokyonight&hide_border=true" width="48%" />
   <br>
   <img src="https://github-profile-trophy.vercel.app/?username=Lanmaulana&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15" width="96%" />
-</p>
+p>
 
 ---
+
 ### 🔥 Animasi Kontribusi Api
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kerriganst/kerriganst/main/files/flame.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?user_name=Lanmaulana&theme=dark,flame" alt="github contribution snake flame animation" />
 </p>
