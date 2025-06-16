@@ -46,6 +46,8 @@
 
 ### 🔥 Animasi Kontribusi Api
 
+### 🔥 Animasi Kontribusi Api
+
 <p align="center">
-  <img src="https://github.com/Lanmaulana/Lanmaulana/raw/output/github-contribution-grid-snake-dark.svg" alt="github contribution snake flame animation" />
+  <img src="https://raw.githubusercontent.com/kerriganst/kerriganst/main/files/flame.gif" width="100%">
 </p>
