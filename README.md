@@ -27,24 +27,25 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,bootstrap,tailwind,figma,vscode,git" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lanmaulana&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lanmaulana&theme=tokyonight" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Lanmaulana&theme=tokyonight&row=1&column=7" width="96%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lanmaulana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lanmaulana&theme=tokyonight&hide_border=true" width="48%" />
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=Lanmaulana&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15" width="96%" />
 </p>
 
 ---
 
-### 🐍 Animasi Kontribusi GitHub
+### 🔥 Animasi Kontribusi Api
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kerriganst/kerriganst/main/files/flame.gif" width="100%">
+  <img src="https://github.com/Lanmaulana/Lanmaulana/raw/output/github-contribution-grid-snake-dark.svg" alt="github contribution snake flame animation" />
 </p>
