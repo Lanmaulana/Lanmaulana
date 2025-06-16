@@ -1,5 +1,21 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustrasi Komputer" width="400"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Maulana Malik Ibrahim</h1>
 <h3 align="center">Web Developer | Freelancer | Trader</h3>
+
+<p align="center">
+  <a href="https://github.com/Lanmaulana" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
+  </a>
+  <a href="mailto:lanmaulana470@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://portofolio-maulana-blush.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website" style="margin-bottom: 5px;" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=420&lines=Frontend+%7C+Backend+%7C+Fullstack;HTML+%2F+CSS+%2F+JS;PHP+%2F+Laravel+%2F+MySQL" alt="Typing SVG" />
@@ -8,25 +24,27 @@
 ---
 
 ### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,bootstrap,tailwind,figma" />
+  </a>
 </p>
 
 ---
 
-### 📫 Contact
-- ✉️ Email: lanmaulana470@gmail.com  
-- 🌐 Website: [portofolio-maulana-blush.vercel.app](https://portofolio-maulana-blush.vercel.app/)
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lanmaulana&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lanmaulana&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Lanmaulana&theme=tokyonight&row=1&column=7" width="96%" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
+### 🐍 Animasi Kontribusi GitHub
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lanmaulana&show_icons=true&theme=tokyonight" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lanmaulana&theme=tokyonight" width="45%" />
+  <img src="https://github.com/Lanmaulana/Lanmaulana/blob/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
