@@ -2,10 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:001a2e,70:00d4ff,100:00ff88&height=140&section=header&text=&animation=fadeIn"/>
 
-<!-- GLITCH TITLE -->
-<a href="https://github.com/Lanmaulana">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&duration=1200&pause=99999&color=00FF88&center=true&vCenter=true&width=400&lines=%3E+boot+profile.sh+%E2%9C%94+OK" alt="boot"/>
-</a>
 
 <br/>
 
@@ -33,8 +30,6 @@
 
 ---
 
-<br/>
-
 <div align="center">
 
 ```
@@ -45,8 +40,8 @@
 ║  Location →  Palangkaraya, Central Kalimantan 🇮🇩            ║
 ║  Brand    →  Maulana Developer                              ║
 ║  Focus    →  Web App · WhatsApp Bot · Digital Store         ║
-║  Games    →  Mobile Legends (Chou · Fanny · YSS) 🎮         ║
-║  Status   →  Open for Freelance ✅                          ║
+║  Games    →  Mobile Legends  (Chou · Fanny · YSS)  🎮       ║
+║  Status   →  Open for Freelance  ✅                         ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -55,8 +50,6 @@
 <br/>
 
 ---
-
-<br/>
 
 <div align="center">
 
@@ -82,7 +75,6 @@
 
 <br/><br/>
 
-<!-- EXTRA BADGES -->
 ![CodeIgniter4](https://img.shields.io/badge/CodeIgniter_4-EF4B36?style=for-the-badge&logo=codeigniter&logoColor=white)
 &nbsp;
 ![Baileys](https://img.shields.io/badge/Baileys_WA-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
@@ -95,17 +87,15 @@
 
 ---
 
-<br/>
-
 <div align="center">
 
 ## 📊 GitHub Stats
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Lanmaulana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=00ff88&text_color=e8f4fd&ring_color=00d4ff&border_radius=10" width="48%"/>
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lanmaulana&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a3550&ring=00d4ff&fire=ff6b35&currStreakNum=00ff88&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=5a7a94&border_radius=10" width="48%"/>
+<!-- Pakai vercel deploy sendiri — paling stabil -->
+<img src="https://github-readme-stats.vercel.app/api?username=Lanmaulana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=00ff88&text_color=e8f4fd&ring_color=00d4ff&border_radius=10" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=Lanmaulana&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a3550&ring=00d4ff&fire=ff6b35&currStreakNum=00ff88&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=5a7a94&border_radius=10" width="49%"/>
 
 <br/><br/>
 
@@ -117,23 +107,19 @@
 
 ---
 
-<br/>
-
 <div align="center">
 
 ## 🏆 Trophies
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Lanmaulana&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Lanmaulana&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
 
 </div>
 
 <br/>
 
 ---
-
-<br/>
 
 <div align="center">
 
@@ -141,15 +127,13 @@
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lanmaulana&bg_color=0d1117&color=00d4ff&line=00ff88&point=ff6b35&area=true&area_color=00d4ff&hide_border=true&radius=8" width="96%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lanmaulana&bg_color=0d1117&color=00d4ff&line=00ff88&point=ff6b35&area=true&hide_border=true&radius=8" width="96%"/>
 
 </div>
 
 <br/>
 
 ---
-
-<br/>
 
 <div align="center">
 
@@ -161,7 +145,7 @@
 |:---:|---------|-------------|-------|
 | 🤖 | **Xymaul-MD** | WhatsApp Bot — plugin ecosystem & custom UI | `Node.js` `Baileys` `MySQL` |
 | 🌸 | **Anya-MD** | WhatsApp Bot fork with kawaii theme | `Node.js` `Baileys` |
-| 🛒 | **Xymaul Store** | Digital store — QRIS, Midtrans, WA notif | `HTML` `CSS` `JS` `PHP` |
+| 🛒 | **Xymaul Store** | Digital store — QRIS · Midtrans · WA notif | `HTML` `CSS` `JS` `PHP` |
 | 🤖 | **Xymaul AI** | Chatbot cyberpunk — Gemini API | `React` `Gemini API` |
 | 🌊 | **Ocean Explorer** | Immersive interactive web experience | `HTML` `CSS` `JS` |
 
@@ -170,8 +154,6 @@
 <br/>
 
 ---
-
-<br/>
 
 <div align="center">
 
