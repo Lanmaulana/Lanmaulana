@@ -94,11 +94,17 @@ const xymaul = {
 <br/>
 
 <div align="center">
-<h2>✦ Trophies</h2>
+<h2>✦ Pinned Repos</h2>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Lanmaulana&theme=algolia&no-frame=true&no-bg=false&margin-w=8&column=4&row=2"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Lanmaulana&repo=Xymaul-MD&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c8ff&icon_color=00ffaa&text_color=c9d1d9&border_radius=12" width="46%"/>&nbsp;
+<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Lanmaulana&repo=Xymaul-Store&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c8ff&icon_color=00ffaa&text_color=c9d1d9&border_radius=12" width="46%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Lanmaulana&repo=Anya-MD&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c8ff&icon_color=00ffaa&text_color=c9d1d9&border_radius=12" width="46%"/>&nbsp;
+<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Lanmaulana&repo=Xymaul-AI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c8ff&icon_color=00ffaa&text_color=c9d1d9&border_radius=12" width="46%"/>
 
 </div>
 
