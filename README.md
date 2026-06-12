@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=18&duration=2500&pause=800&color=00C8FF&center=true&vCenter=true&width=560&lines=%F0%9F%9A%80+Fullstack+Web+Developer;%F0%9F%A4%96+WhatsApp+Bot+Developer;%F0%9F%93%88+Trader+%26+Digital+Builder;%E2%9A%A1+Open+for+Freelance+%E2%80%94+DM+me%21" alt="roles"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=18&duration=2500&pause=800&color=00C8FF&center=true&vCenter=true&width=560&lines=%F0%9F%9A%80+Fullstack+Web+Developer;%F0%9F%A4%96+WhatsApp+Bot+Developer;%F0%9F%93%88+Trader+%26+Digital+Builder;%E2%9A%A1+Open+for+Freelance+%E2%80%94+DM+me%21" alt="roles"/>
 
 <br/><br/>
 
@@ -26,9 +26,7 @@
 
 <br/>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=24&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=240&lines=✦+About+Me" alt="about"/>
-</div>
+<h2 align="center">✦ About Me</h2>
 
 <br/>
 
@@ -49,7 +47,7 @@ const xymaul = {
 <br/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=24&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=260&lines=✦+Tech+Stack" alt="tech"/>
+<h2>✦ Tech Stack</h2>
 
 <br/><br/>
 
@@ -75,7 +73,7 @@ const xymaul = {
 <br/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=24&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=260&lines=✦+GitHub+Stats" alt="stats"/>
+<h2>✦ GitHub Stats</h2>
 
 <br/><br/>
 
@@ -96,7 +94,7 @@ const xymaul = {
 <br/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=24&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=240&lines=✦+Trophies" alt="trophies"/>
+<h2>✦ Trophies</h2>
 
 <br/><br/>
 
@@ -107,7 +105,7 @@ const xymaul = {
 <br/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=24&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=320&lines=✦+Activity+Graph" alt="activity"/>
+<h2>✦ Activity Graph</h2>
 
 <br/><br/>
 
@@ -118,7 +116,7 @@ const xymaul = {
 <br/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=24&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=260&lines=✦+Projects" alt="projects"/>
+<h2>✦ Projects</h2>
 
 <br/><br/>
 
@@ -140,7 +138,7 @@ const xymaul = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=3500&pause=1200&color=2a3a4a&center=true&vCenter=true&width=520&lines=✦+Maulana+Developer+·+Palangkaraya%2C+ID+🇮🇩;Open+for+freelance+—+DM+me+anytime!;©+2026+Maulana+Malik+Ibrahim"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=12&duration=3500&pause=1200&color=2a3a4a&center=true&vCenter=true&width=520&lines=✦+Maulana+Developer+·+Palangkaraya%2C+ID+🇮🇩;Open+for+freelance+—+DM+me+anytime!;©+2026+Maulana+Malik+Ibrahim"/>
 
 <br/>
 
