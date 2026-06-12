@@ -1,14 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:050d1a,65:0a1f35,100:00c8ff&height=200&section=header&text=Maulana%20Malik%20Ibrahim&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=60&animation=fadeIn&desc=Fullstack%20Developer%20%7C%20Freelancer%20%7C%20Trader&descSize=15&descAlignY=76&descColor=00c8ff"/>
-
-</div>
-
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:050d1a,65:0a1f35,100:00c8ff&height=220&section=header&text=Maulana%20Malik%20Ibrahim&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=58&animation=fadeIn&desc=Fullstack%20Developer%20%7C%20Freelancer%20%7C%20Trader&descSize=15&descAlignY=75&descColor=00c8ff"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=17&duration=2500&pause=800&color=00C8FF&center=true&vCenter=true&width=500&lines=🚀+Fullstack+Web+Developer;🤖+WhatsApp+Bot+Developer;📈+Trader+%26+Digital+Builder;⚡+Open+for+Freelance+—+DM+me!" alt="roles"/>
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=18&duration=2500&pause=800&color=00C8FF&center=true&vCenter=true&width=560&lines=%F0%9F%9A%80+Fullstack+Web+Developer;%F0%9F%A4%96+WhatsApp+Bot+Developer;%F0%9F%93%88+Trader+%26+Digital+Builder;%E2%9A%A1+Open+for+Freelance+%E2%80%94+DM+me%21" alt="roles"/>
 
 <br/><br/>
 
@@ -26,12 +22,12 @@
 
 <br/>
 
----
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
 <br/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=22&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=220&lines=✦+About+Me" alt="about"/>
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=24&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=240&lines=✦+About+Me" alt="about"/>
 </div>
 
 <br/>
@@ -52,12 +48,8 @@ const xymaul = {
 
 <br/>
 
----
-
-<br/>
-
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=22&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=240&lines=✦+Tech+Stack" alt="tech"/>
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=24&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=260&lines=✦+Tech+Stack" alt="tech"/>
 
 <br/><br/>
 
@@ -82,41 +74,29 @@ const xymaul = {
 
 <br/>
 
----
-
-<br/>
-
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=22&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=260&lines=✦+GitHub+Stats" alt="stats"/>
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=24&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=260&lines=✦+GitHub+Stats" alt="stats"/>
 
 <br/><br/>
 
-<!-- Stats: fast fork — lebih stabil dari public instance -->
 <img src="https://github-readme-stats-fast.vercel.app/api?username=Lanmaulana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00c8ff&icon_color=00ffaa&text_color=c9d1d9&ring_color=00c8ff&border_radius=12" width="49%"/>
 
-<!-- Streak: alternatif demolab yang working -->
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=Lanmaulana&theme=tokyonight&hide_border=true&background=0d1117&stroke=0d1117&ring=00c8ff&fire=ff6b35&currStreakNum=00ffaa&currStreakLabel=00c8ff&sideLabels=00c8ff&dates=555&border_radius=12" width="49%"/>
 
 <br/><br/>
 
-<!-- Top langs: public instance biasanya masih jalan untuk langs -->
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Lanmaulana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c8ff&text_color=c9d1d9&border_radius=12&langs_count=8" width="42%"/>
 
 <br/><br/>
 
-<!-- Summary cards: service berbeda, lebih jarang down -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lanmaulana&theme=github_dark" width="96%"/>
 
 </div>
 
 <br/>
 
----
-
-<br/>
-
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=22&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=240&lines=✦+Trophies" alt="trophies"/>
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=24&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=240&lines=✦+Trophies" alt="trophies"/>
 
 <br/><br/>
 
@@ -126,12 +106,8 @@ const xymaul = {
 
 <br/>
 
----
-
-<br/>
-
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=22&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=300&lines=✦+Activity+Graph" alt="activity"/>
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=24&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=320&lines=✦+Activity+Graph" alt="activity"/>
 
 <br/><br/>
 
@@ -141,12 +117,8 @@ const xymaul = {
 
 <br/>
 
----
-
-<br/>
-
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=22&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=260&lines=✦+Projects" alt="projects"/>
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=24&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=260&lines=✦+Projects" alt="projects"/>
 
 <br/><br/>
 
@@ -162,7 +134,7 @@ const xymaul = {
 
 <br/>
 
----
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
 
 <br/>
 
@@ -172,6 +144,6 @@ const xymaul = {
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c8ff,40:0a1f35,80:050d1a,100:000000&height=110&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c8ff,40:0a1f35,80:050d1a,100:000000&height=120&section=footer"/>
 
 </div>
