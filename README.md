@@ -44,7 +44,6 @@
   "base": "Palangkaraya, Kalimantan Tengah",
   "education": "SMK — Rekayasa Perangkat Lunak",
   "focus": ["Web Development", "WhatsApp Bot Engineering"],
-  "offDuty": ["Trading", "Mobile Legends"],
   "availability": "open_for_freelance"
 }
 ```
