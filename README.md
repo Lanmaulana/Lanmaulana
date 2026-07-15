@@ -1,31 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=260&color=0:0F0C29,50:302B63,100:24243e&text=XYMAUL&fontSize=68&fontColor=E8DEFF&animation=fadeIn&fontAlignY=38&desc=Fullstack%20%2F%2F%20AI%20%2F%2F%20WhatsApp%20Bot%20Developer&descSize=17&descColor=A89CD0&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:0A0014,50:FF2E9F,100:00F0FF&text=XYMAUL&fontSize=68&fontColor=FFFFFF&animation=twinkling&fontAlignY=36&desc=%3C%20CYBER%20DEVELOPER%20%2F%2F%20FULLSTACK%20%2F%2F%20AI%20BOT%20%3E&descSize=17&descColor=E0E0FF&descAlignY=58" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3200&pause=900&color=B5A8E8&center=true&vCenter=true&width=650&lines=Hai%2C+aku+Maulana+%E2%9C%A8;Fullstack+%26+Bot+Developer;Suka+desain+gelap+%26+elegan;Open+for+Freelance+Work" alt="Typing SVG"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=2600&pause=700&color=FF2E9F&center=true&vCenter=true&width=650&lines=SYSTEM+ONLINE...;IDENTITY%3A+Maulana+%2F+Xymaul;CLASS%3A+Fullstack+%2B+Bot+Developer;STATUS%3A+Ready+For+Freelance" alt="Typing SVG"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/-OPEN%20FOR%20FREELANCE-6C5CE7?style=for-the-badge&labelColor=1a1a2e"/>
-<img src="https://komarev.com/ghpvc/?username=Lanmaulana&label=VISITORS&color=6C5CE7&style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/-OPEN%20FOR%20FREELANCE-FF2E9F?style=for-the-badge&labelColor=0A0014"/>
+<img src="https://komarev.com/ghpvc/?username=Lanmaulana&label=VISITORS&color=00F0FF&style=for-the-badge&labelColor=0A0014"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/tulip.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213911069-f2e0611e-2b6d-4d1e-9c5e-4c4d3ac4ee0c.gif" width="100%">
-</div>
-
-## 🪞 About Me
+## 🌆 `> ABOUT_ME`
 
 <table width="100%">
 <tr>
 <td width="55%" valign="top">
 
 ```yaml
-name: Maulana
-alias: Xymaul
+codename: Xymaul
+real_name: Maulana
 brand: Maulana Developer
 location: Palangkaraya, Kalimantan Tengah 🇮🇩
 education: SMK — Rekayasa Perangkat Lunak (RPL)
@@ -35,32 +33,28 @@ stack:
   - React / Vue.js / Node.js
   - MySQL / Firebase / Tailwind
 focus: AI Chatbot & WhatsApp Bot Development
-style: dark, glassy, minimal, elegant
+aesthetic: cyberpunk, neon, dark
 open_to_freelance: true
 ```
 
 </td>
 <td width="45%" valign="top">
 
-**✨ Highlights**
+**⚡ SYSTEM TRAITS**
 - 🌐 Full Stack Web Developer
 - 🤖 WhatsApp Bot Developer (Baileys)
 - 🧠 AI Chatbot Integration
-- 🎨 Dark Glassmorphism UI Enthusiast
+- 🎮 Cyberpunk / Neon UI Enthusiast
 - ☁️ VPS & Linux Server Management
 - 🤝 Open for Collaboration & Freelance
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/blue-lines.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/221352995-5f321eba-e1ea-46e0-b02f-c9c1e6d95c1b.gif" width="100%">
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216656135-4c31eec2-3fa9-49fc-9d47-9dea9f8b1d16.gif" width="100%">
-</div>
-
-## 🧊 Tech Stack
+## 💾 `> TECH_STACK`
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,vue,nodejs,php,laravel,mysql,tailwind,vite,firebase,git,vscode,postman&theme=dark&perline=8"/>
@@ -69,48 +63,51 @@ open_to_freelance: true
 <br/>
 
 <div align="center">
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Working+With&titleTypeSize=20&titleColor=B5A8E8&lineCount=2&line1=laravel,laravel,6C5CE7;react,react,6C5CE7;nodejs,nodejs,6C5CE7;mysql,mysql,6C5CE7&line2=vuejs,vuejs,6C5CE7;tailwindcss,tailwindcss,6C5CE7;firebase,firebase,6C5CE7;git,git,6C5CE7&currentLineWidth=380&currentLabelColor=1a1a2e&currentLabelBorderColor=6C5CE7&background=00000000"/>
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Working+With&titleTypeSize=20&titleColor=00F0FF&lineCount=2&line1=laravel,laravel,FF2E9F;react,react,FF2E9F;nodejs,nodejs,FF2E9F;mysql,mysql,FF2E9F&line2=vuejs,vuejs,00F0FF;tailwindcss,tailwindcss,00F0FF;firebase,firebase,00F0FF;git,git,00F0FF&currentLineWidth=380&currentLabelColor=0A0014&currentLabelBorderColor=FF2E9F&background=00000000"/>
 </div>
 
-## 🔮 Analytics
+## 📡 `> ANALYTICS`
 
 <div align="center">
-<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lanmaulana&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=B5A8E8&icon_color=6C5CE7&text_color=E8DEFF&border_radius=15&cache_seconds=7200"/>
-<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lanmaulana&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=B5A8E8&text_color=E8DEFF&border_radius=15&cache_seconds=7200"/>
+<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lanmaulana&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=FF2E9F&icon_color=00F0FF&text_color=E0E0FF&border_radius=15&cache_seconds=7200"/>
+<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lanmaulana&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=FF2E9F&text_color=E0E0FF&border_radius=15&cache_seconds=7200"/>
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=Lanmaulana&theme=dark&hide_border=true&background=00000000&ring=6C5CE7&fire=B5A8E8&currStreakLabel=B5A8E8&border_radius=15" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=Lanmaulana&theme=dark&hide_border=true&background=00000000&ring=FF2E9F&fire=00F0FF&currStreakLabel=00F0FF&border_radius=15" width="70%"/>
 </div>
 
+<div align="center">
+<img src="https://trophy.ryglcloud.net/?username=Lanmaulana&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7&cache_seconds=86400"/>
+</div>
 
-## 🌊 Activity Flow
+## 🎮 `> ACTIVITY_FEED`
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lanmaulana&theme=github-dark-purple&hide_border=true&bg_color=00000000&color=B5A8E8&line=6C5CE7&point=E8DEFF" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lanmaulana&theme=react-dark&hide_border=true&bg_color=00000000&color=00F0FF&line=FF2E9F&point=FFFFFF" width="100%"/>
 </div>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Snake game contribution graph" width="100%"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/tulip.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## 💌 Connect
+## 📶 `> CONNECT`
 
 <div align="center">
 
 <a href="mailto:lanmaulana470@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-1a1a2e?style=for-the-badge&logo=gmail&logoColor=B5A8E8&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Gmail-0A0014?style=for-the-badge&logo=gmail&logoColor=00F0FF&labelColor=0A0014"/>
 </a>
 <a href="https://saweria.co/lanmaulana470">
-<img src="https://img.shields.io/badge/Saweria-1a1a2e?style=for-the-badge&logo=buymeacoffee&logoColor=B5A8E8&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Saweria-0A0014?style=for-the-badge&logo=buymeacoffee&logoColor=FF2E9F&labelColor=0A0014"/>
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/BUILT%20WITH-CODE%20%26%20CALM-1a1a2e?style=flat-square&labelColor=6C5CE7"/>
+<img src="https://img.shields.io/badge/BUILT%20WITH-CODE%20%26%20NEON-0A0014?style=flat-square&labelColor=FF2E9F"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=110&color=0:24243e,50:302B63,100:0F0C29&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:00F0FF,50:FF2E9F,100:0A0014&section=footer" width="100%"/>
