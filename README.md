@@ -97,8 +97,6 @@ open_to_freelance: true
 <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Snake game contribution graph" width="100%"/>
 </div>
 
-> 💡 Graf ular ini contoh visualnya — kalau mau versi live yang update otomatis tiap hari dari kontribusi asli lo, tinggal setup GitHub Action, gua bisa bikinin filenya.
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/tulip.gif" width="100%">
 
 ## 💌 Connect
