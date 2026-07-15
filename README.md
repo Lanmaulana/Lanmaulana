@@ -83,9 +83,6 @@ open_to_freelance: true
 <img src="https://streak-stats.demolab.com/?user=Lanmaulana&theme=dark&hide_border=true&background=00000000&ring=6C5CE7&fire=B5A8E8&currStreakLabel=B5A8E8&border_radius=15" width="70%"/>
 </div>
 
-<div align="center">
-<img src="https://trophy.ryglcloud.net/?username=Lanmaulana&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&column=7&cache_seconds=86400"/>
-</div>
 
 ## 🌊 Activity Flow
 
