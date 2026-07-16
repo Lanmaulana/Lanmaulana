@@ -31,6 +31,7 @@ open_to_freelance: true
 ```
 </td>
 <td width="45%" valign="top">
+  
 **⚡ SYSTEM TRAITS**
 - 🌐 Full Stack Web Developer
 - 🤖 WhatsApp Bot Developer (Baileys)
