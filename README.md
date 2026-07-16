@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:0A0014,50:FF2E9F,100:00F0FF&text=XYMAUL&fontSize=68&fontColor=FFFFFF&animation=twinkling&fontAlignY=36&desc=%3C%20CYBER%20DEVELOPER%20%2F%2F%20FULLSTACK%20%2F%2F%20AI%20BOT%20%3E&descSize=17&descColor=E0E0FF&descAlignY=58" width="100%"/>
 
-<img src="[https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif](https://private-user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODQxODkzNDYsIm5iZiI6MTc4NDE4OTA0NiwicGF0aCI6Ii83NDAzODE5MC8yNTA5Njc2MTgtZGUzMDAxNWYtZGM1Zi00ZWNmLWE0OWItY2NkMmI4OTc3NmU0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzE2VDA4MDQwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMyZTQzNWY2MzQ3MzQzYWY4NmY4ZTQyNTljYTg4NjNmY2I5ZGI5YjQwMDQ3OWQ3ZTJmNWQ3MDY4MGZhMTlhZjQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.sn1MTfJRx1qTH0aaAXKFlz55qf4vmrcpRx4VQsidz60)" width="500">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500">
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=2600&pause=700&color=FF2E9F&center=true&vCenter=true&width=650&lines=SYSTEM+ONLINE...;IDENTITY%3A+Maulana+%2F+Xymaul;CLASS%3A+Fullstack+%2B+Bot+Developer;STATUS%3A+Ready+For+Freelance" alt="Typing SVG"/>
 
