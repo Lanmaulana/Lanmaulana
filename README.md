@@ -59,9 +59,6 @@ open_to_freelance: true
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=Lanmaulana&theme=dark&hide_border=true&background=00000000&ring=FF2E9F&fire=00F0FF&currStreakLabel=00F0FF&border_radius=15" width="70%"/>
 </div>
-<div align="center">
-<img src="https://trophy.ryglcloud.net/?username=Lanmaulana&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7&cache_seconds=86400"/>
-</div>
 ## 🎮 `> ACTIVITY_FEED`
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lanmaulana&theme=react-dark&hide_border=true&bg_color=00000000&color=00F0FF&line=FF2E9F&point=FFFFFF" width="100%"/>
