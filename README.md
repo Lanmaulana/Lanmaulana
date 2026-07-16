@@ -51,16 +51,17 @@ open_to_freelance: true
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html5.png" width="65" height="65">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" width="65" height="65">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="65" height="65">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php_(elephpant).png" width="65" height="65">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" width="65" height="65">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/laravel.png" width="65" height="65">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png" width="65" height="65">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="65" height="65">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="65" height="65">
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vercel.png" width="65" height="65">
+![HTML5](https://www.readmecodegen.com/api/social-icon?name=html5&size=48&animation=shake)
+![CSS3](https://www.readmecodegen.com/api/social-icon?name=css3&size=48&animation=shake)
+![JavaScript](https://www.readmecodegen.com/api/social-icon?name=javascript&size=48&animation=shake)
+![PHP](https://www.readmecodegen.com/api/social-icon?name=php&size=48&animation=shake)
+![Node.js](https://www.readmecodegen.com/api/social-icon?name=nodejs&size=48&animation=shake)
+![MySQL](https://www.readmecodegen.com/api/social-icon?name=mysql&size=48&animation=shake)
+![Laravel](https://www.readmecodegen.com/api/social-icon?name=laravel&size=48&animation=shake)
+![Vue.js](https://www.readmecodegen.com/api/social-icon?name=vuejs&size=48&animation=shake)
+![React](https://www.readmecodegen.com/api/social-icon?name=react&size=48&animation=shake)
+![Git](https://www.readmecodegen.com/api/social-icon?name=git&size=48&animation=shake)
+![Vercel](https://www.readmecodegen.com/api/social-icon?name=vercel&size=48&animation=shake)
 
 </div>
 <br/>
