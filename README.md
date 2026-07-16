@@ -163,11 +163,6 @@
 └─────────────────────────────────────────────┘
 ```
 
-<div align="center">
-
-Terbuka untuk kerja freelance — fullstack web & bot WhatsApp.
-DM lewat GitHub atau email di atas.
-
 <br/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=11&duration=4000&pause=1500&color=2a3a2a&center=true&vCenter=true&width=520&lines=Xymaul+·+Palangkaraya%2C+Kalimantan+Tengah;%C2%A9+2026+Maulana+Malik+Ibrahim"/>
