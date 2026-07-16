@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/-OPEN%20FOR%20FREELANCE-FF2E9F?style=for-the-badge&labelColor=0A0014"/>
+
 <img src="https://komarev.com/ghpvc/?username=Lanmaulana&label=VISITORS&color=00F0FF&style=for-the-badge&labelColor=0A0014"/>
 
 </div>
