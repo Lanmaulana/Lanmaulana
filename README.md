@@ -1,98 +1,177 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=2600&pause=700&color=FF2E9F&center=true&vCenter=true&width=650&lines=SYSTEM+ONLINE...;IDENTITY%3A+Maulana+%2F+Xymaul;CLASS%3A+Fullstack+%2B+Bot+Developer;STATUS%3A+Ready+For+Freelance" alt="Typing SVG"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:0a0a0a&height=4"/>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500">
 <br/>
-<img src="https://komarev.com/ghpvc/?username=Lanmaulana&label=VISITORS&color=00F0FF&style=for-the-badge&labelColor=0A0014"/>
+
+```
+┌─────────────────────────────────────────────┐
+│  root@xymaul:~$ whoami                       │
+└─────────────────────────────────────────────┘
+```
+
+# XYMAUL
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=16&duration=2200&pause=700&color=39FF14&center=true&vCenter=true&width=600&lines=Fullstack+Developer;WhatsApp+Bot+Builder;Building+in+the+dark%2C+shipping+in+the+light." alt="typing"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/PALANGKARAYA-ID-000000?style=for-the-badge&labelColor=39FF14&color=0a0a0a"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN_FOR_WORK-000000?style=for-the-badge&labelColor=0a0a0a&color=39FF14"/>
+<img src="https://komarev.com/ghpvc/?username=Lanmaulana&style=for-the-badge&color=39FF14&labelColor=0a0a0a&label=VISITORS"/>
+
+<br/><br/>
+
+<a href="https://github.com/Lanmaulana"><img src="https://img.shields.io/badge/GITHUB-Lanmaulana-0a0a0a?style=flat-square&logo=github&logoColor=39FF14&labelColor=000000"/></a>
+<a href="mailto:lanmaulana470@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-0a0a0a?style=flat-square&logo=gmail&logoColor=39FF14&labelColor=000000"/></a>
+<a href="https://portofolio-maulana-blush.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Visit-0a0a0a?style=flat-square&logo=vercel&logoColor=39FF14&labelColor=000000"/></a>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-## 🌆 `> ABOUT_ME`
+<br/>
+
+```
+┌─────────────────────────────────────────────┐
+│  root@xymaul:~$ cat about.json               │
+└─────────────────────────────────────────────┘
+```
+
+```json
+{
+  "name": "Maulana Malik Ibrahim",
+  "alias": "Xymaul",
+  "brand": "Maulana Developer",
+  "base": "Palangkaraya, Kalimantan Tengah",
+  "education": "SMK — Rekayasa Perangkat Lunak",
+  "focus": ["Web Development", "WhatsApp Bot Engineering"],
+  "offDuty": ["Trading", "Mobile Legends"],
+  "availability": "open_for_freelance"
+}
+```
+
+<br/>
+
+```
+┌─────────────────────────────────────────────┐
+│  root@xymaul:~$ ls stack/                    │
+└─────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,laravel,php,nodejs,mysql,firebase,vite,git&theme=dark&perline=7"/>
+
+</div>
+
 <table width="100%">
 <tr>
-<td width="55%" valign="top">
-  
-```yaml
-codename: Xymaul
-real_name: Maulana
-brand: Maulana Developer
-location: Palangkaraya, Kalimantan Tengah 🇮🇩
-education: SMK — Rekayasa Perangkat Lunak (RPL)
-stack:
-  - JavaScript / TypeScript / PHP
-  - Laravel / CodeIgniter 4
-  - React / Vue.js / Node.js
-  - MySQL / Firebase / Tailwind
-focus: AI Chatbot & WhatsApp Bot Development
-aesthetic: cyberpunk, neon, dark
-open_to_freelance: true
-```
+<td width="33%" valign="top">
+
+**Frontend**
+- React
+- Vue.js
+- Tailwind CSS
+- Vite
+
 </td>
-<td width="45%" valign="top">
-  
-**⚡ SYSTEM TRAITS**
-- 🌐 Full Stack Web Developer
-- 🤖 WhatsApp Bot Developer (Baileys)
-- 🧠 AI Chatbot Integration
-- 🎮 Cyberpunk / Neon UI Enthusiast
-- ☁️ VPS & Linux Server Management
-- 🤝 Open for Collaboration & Freelance
-<img src="https://user-images.githubusercontent.com/74038190/221352995-5f321eba-e1ea-46e0-b02f-c9c1e6d95c1b.gif" width="100%">
+<td width="33%" valign="top">
+
+**Backend**
+- Laravel
+- CodeIgniter 4
+- Node.js
+- PHP
+
+</td>
+<td width="34%" valign="top">
+
+**Data & Tools**
+- MySQL
+- Firebase
+- Git
+- Baileys (WA)
 
 </td>
 </tr>
 </table>
-## 💾 `> TECH_STACK`
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-</div>
 
-<div align="center">
-
-![HTML5](https://www.readmecodegen.com/api/social-icon?name=html5&size=48&animation=shake)
-![CSS3](https://www.readmecodegen.com/api/social-icon?name=css3&size=48&animation=shake)
-![JavaScript](https://www.readmecodegen.com/api/social-icon?name=javascript&size=48&animation=shake)
-![PHP](https://www.readmecodegen.com/api/social-icon?name=php&size=48&animation=shake)
-![Node.js](https://www.readmecodegen.com/api/social-icon?name=nodejs&size=48&animation=shake)
-![MySQL](https://www.readmecodegen.com/api/social-icon?name=mysql&size=48&animation=shake)
-![Laravel](https://www.readmecodegen.com/api/social-icon?name=laravel&size=48&animation=shake)
-![Vue.js](https://www.readmecodegen.com/api/social-icon?name=vuejs&size=48&animation=shake)
-![React](https://www.readmecodegen.com/api/social-icon?name=react&size=48&animation=shake)
-![Git](https://www.readmecodegen.com/api/social-icon?name=git&size=48&animation=shake)
-![Vercel](https://www.readmecodegen.com/api/social-icon?name=vercel&size=48&animation=shake)
-
-</div>
 <br/>
+
+```
+┌─────────────────────────────────────────────┐
+│  root@xymaul:~$ ls projects/ --sort=recent   │
+└─────────────────────────────────────────────┘
+```
+
+<table width="100%">
+<tr>
+<th align="left">Project</th>
+<th align="left">Deskripsi</th>
+<th align="left">Stack</th>
+</tr>
+<tr>
+<td><b>Xymaul-MD</b></td>
+<td>WhatsApp bot dengan sistem plugin lengkap</td>
+<td><code>Node.js</code> <code>Baileys</code> <code>MySQL</code></td>
+</tr>
+<tr>
+<td><b>Xymaul Store</b></td>
+<td>Storefront jual akun premium — Firebase & Premku API</td>
+<td><code>JS</code> <code>Firebase</code></td>
+</tr>
+<tr>
+<td><b>Xymaul AI Chat</b></td>
+<td>Chatbot AI multi-provider berbasis Laravel</td>
+<td><code>Laravel 12</code></td>
+</tr>
+<tr>
+<td><b>Mading Digital</b></td>
+<td>Papan pengumuman digital untuk SMKN 1 Buntok</td>
+<td><code>CodeIgniter 4</code></td>
+</tr>
+<tr>
+<td><b>Portfolio</b></td>
+<td>Portfolio pribadi dengan iterasi desain berlapis</td>
+<td><code>React</code></td>
+</tr>
+</table>
+
+<br/>
+
+```
+┌─────────────────────────────────────────────┐
+│  root@xymaul:~$ ./stats.sh                   │
+└─────────────────────────────────────────────┘
+```
+
 <div align="center">
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Working+With&titleTypeSize=20&titleColor=00F0FF&lineCount=2&line1=laravel,laravel,FF2E9F;react,react,FF2E9F;nodejs,nodejs,FF2E9F;mysql,mysql,FF2E9F&line2=vuejs,vuejs,00F0FF;tailwindcss,tailwindcss,00F0FF;firebase,firebase,00F0FF;git,git,00F0FF&currentLineWidth=380&currentLabelColor=0A0014&currentLabelBorderColor=FF2E9F&background=00000000"/>
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Lanmaulana&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0a0a0a&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&ring_color=39FF14&border_radius=4" width="49%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Lanmaulana&theme=dark&hide_border=true&background=0a0a0a&stroke=0a0a0a&ring=39FF14&fire=39FF14&currStreakNum=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&dates=666&border_radius=4" width="49%"/>
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Lanmaulana&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=39FF14&text_color=c9d1d9&border_radius=4&langs_count=8" width="60%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lanmaulana&bg_color=0a0a0a&color=39FF14&line=39FF14&point=ffffff&area=true&area_color=39FF14&hide_border=true&radius=4" width="96%"/>
+
 </div>
-## 📡 `> ANALYTICS`
+
+<br/>
+
+```
+┌─────────────────────────────────────────────┐
+│  root@xymaul:~$ echo $CONTACT                │
+└─────────────────────────────────────────────┘
+```
+
 <div align="center">
-<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lanmaulana&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=FF2E9F&icon_color=00F0FF&text_color=E0E0FF&border_radius=15&cache_seconds=7200"/>
-<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lanmaulana&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=FF2E9F&text_color=E0E0FF&border_radius=15&cache_seconds=7200"/>
+
+Terbuka untuk kerja freelance — fullstack web & bot WhatsApp.
+DM lewat GitHub atau email di atas.
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=11&duration=4000&pause=1500&color=2a3a2a&center=true&vCenter=true&width=520&lines=Xymaul+·+Palangkaraya%2C+Kalimantan+Tengah;%C2%A9+2026+Maulana+Malik+Ibrahim"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:0a0a0a&height=4"/>
+
 </div>
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=Lanmaulana&theme=dark&hide_border=true&background=00000000&ring=FF2E9F&fire=00F0FF&currStreakLabel=00F0FF&border_radius=15" width="70%"/>
-</div>
-## 🎮 `> ACTIVITY_FEED`
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lanmaulana&theme=react-dark&hide_border=true&bg_color=00000000&color=00F0FF&line=FF2E9F&point=FFFFFF" width="100%"/>
-</div>
-<div align="center">
-<img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Snake game contribution graph" width="100%"/>
-</div>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-## 📶 `> CONNECT`
-<div align="center">
-<a href="mailto:lanmaulana470@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0A0014?style=for-the-badge&logo=gmail&logoColor=00F0FF&labelColor=0A0014"/>
-</a>
-<a href="https://saweria.co/lanmaulana470">
-<img src="https://img.shields.io/badge/Saweria-0A0014?style=for-the-badge&logo=buymeacoffee&logoColor=FF2E9F&labelColor=0A0014"/>
-</a>
-<br/><br/>
-<img src="https://img.shields.io/badge/BUILT%20WITH-CODE%20%26%20NEON-0A0014?style=flat-square&labelColor=FF2E9F"/>
-</div>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:00F0FF,50:FF2E9F,100:0A0014&section=footer" width="100%"/>
