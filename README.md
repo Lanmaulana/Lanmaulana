@@ -10,7 +10,7 @@
 └─────────────────────────────────────────────┘
 ```
 
-# XYMAUL
+# 𝐌𝐀𝐔𝐋𝐀𝐍𝐀 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐌𝐄𝐍𝐓
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=16&duration=2200&pause=700&color=39FF14&center=true&vCenter=true&width=600&lines=Fullstack+Developer;WhatsApp+Bot+Builder;Building+in+the+dark%2C+shipping+in+the+light." alt="typing"/>
 
