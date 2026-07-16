@@ -3,9 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:0A0014,50:FF2E9F,100:00F0FF&text=XYMAUL&fontSize=68&fontColor=FFFFFF&animation=twinkling&fontAlignY=36&desc=%3C%20CYBER%20DEVELOPER%20%2F%2F%20FULLSTACK%20%2F%2F%20AI%20BOT%20%3E&descSize=17&descColor=E0E0FF&descAlignY=58" width="100%"/>
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=2600&pause=700&color=FF2E9F&center=true&vCenter=true&width=650&lines=SYSTEM+ONLINE...;IDENTITY%3A+Maulana+%2F+Xymaul;CLASS%3A+Fullstack+%2B+Bot+Developer;STATUS%3A+Ready+For+Freelance" alt="Typing SVG"/>
-
 <br/>
 
 
