@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/header.svg">
-  <img src="assets/light/header.svg" alt="Maulana Developer">
+  <source media="(prefers-color-scheme: dark)" srcset="dark/header.svg">
+  <img src="light/header.svg" alt="Maulana Developer">
 </picture>
 
 <br>
@@ -20,18 +20,18 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/whoami.svg">
-  <img src="assets/light/whoami.svg" alt="About Maulana">
+  <source media="(prefers-color-scheme: dark)" srcset="dark/whoami.svg">
+  <img src="light/whoami.svg" alt="About Maulana">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/system.svg">
-  <img src="assets/light/system.svg" alt="System map">
+  <source media="(prefers-color-scheme: dark)" srcset="dark/system.svg">
+  <img src="light/system.svg" alt="System map">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/projects.svg">
-  <img src="assets/light/projects.svg" alt="Projects">
+  <source media="(prefers-color-scheme: dark)" srcset="dark/projects.svg">
+  <img src="light/projects.svg" alt="Projects">
 </picture>
 
 <div align="center">
@@ -43,13 +43,13 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg">
-  <img src="assets/light/stack.svg" alt="Technical stack">
+  <source media="(prefers-color-scheme: dark)" srcset="dark/stack.svg">
+  <img src="light/stack.svg" alt="Technical stack">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.svg">
-  <img src="assets/light/footer.svg" alt="System online">
+  <source media="(prefers-color-scheme: dark)" srcset="dark/footer.svg">
+  <img src="light/footer.svg" alt="System online">
 </picture>
 
 <!-- Replace YOUR-PORTFOLIO.com and YOUR_EMAIL@example.com -->
