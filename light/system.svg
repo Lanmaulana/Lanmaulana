@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 437">
+<defs><filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="1200" height="437" rx="20" fill="#f7f7f7"/>
+<rect x="25" y="25" width="1150" height="387" rx="14" fill="none" stroke="#00ff88" opacity=".2"/>
+<text x="78" y="58" fill="#00ff88" font-family="monospace" font-size="14" font-weight="700">/ 02 — SYSTEM MAP</text>
+<path d="M78 70H1120" stroke="#00ff88" opacity=".18"/>
+<text x="78" y="88" fill="#111111" font-family="monospace" font-size="18">FRONTEND    →  React / Next.js</text><text x="78" y="130" fill="#111111" font-family="monospace" font-size="18">BACKEND     →  Laravel / PHP / Node.js</text><text x="78" y="172" fill="#111111" font-family="monospace" font-size="18">DATABASE    →  MySQL / PostgreSQL / Supabase</text><text x="78" y="214" fill="#111111" font-family="monospace" font-size="18">MOBILE      →  Flutter</text><text x="78" y="256" fill="#111111" font-family="monospace" font-size="18">AI / API    →  OpenAI / Gemini / REST APIs</text><text x="78" y="298" fill="#111111" font-family="monospace" font-size="18">TOOLS       →  Git / Docker / Vite / npm</text>
+<text x="78" y="345" fill="#00ff88" font-family="monospace" font-size="15">system.map: operational</text>
+</svg>

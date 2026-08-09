@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 311">
+<defs><filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="1200" height="311" rx="20" fill="#f7f7f7"/>
+<rect x="25" y="25" width="1150" height="261" rx="14" fill="none" stroke="#00ff88" opacity=".2"/>
+<text x="78" y="58" fill="#00ff88" font-family="monospace" font-size="14" font-weight="700">/ 05 — STATUS</text>
+<path d="M78 70H1120" stroke="#00ff88" opacity=".18"/>
+<text x="78" y="88" fill="#111111" font-family="monospace" font-size="18">> connection established</text><text x="78" y="130" fill="#111111" font-family="monospace" font-size="18">> developer mode: ACTIVE</text><text x="78" y="172" fill="#111111" font-family="monospace" font-size="18">> building the next thing...</text>
+<text x="78" y="219" fill="#00ff88" font-family="monospace" font-size="15">MAULANA.DEV // SYSTEM ONLINE</text>
+</svg>

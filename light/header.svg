@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430">
+<defs>
+  <linearGradient id="g" x1="0" x2="1">
+    <stop stop-color="#00ff88"/><stop offset="1" stop-color="#00d9ff"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="scan" width="6" height="6" patternUnits="userSpaceOnUse"><path d="M0 0H6" stroke="#00ff88" opacity=".035"/></pattern>
+</defs>
+<rect width="1200" height="430" rx="24" fill="#f7f7f7"/>
+<rect width="1200" height="430" rx="24" fill="url(#scan)"/>
+<rect x="45" y="35" width="1110" height="360" rx="18" fill="none" stroke="#00ff88" opacity=".25"/>
+<text x="85" y="105" fill="#00ff88" font-family="monospace" font-size="22">&gt; booting maulana.dev...</text>
+<text x="85" y="145" fill="#666666" font-family="monospace" font-size="17">[ OK ] developer_profile loaded</text>
+<text x="85" y="177" fill="#666666" font-family="monospace" font-size="17">[ OK ] projects indexed</text>
+<text x="85" y="209" fill="#666666" font-family="monospace" font-size="17">[ OK ] systems online</text>
+
+<text x="85" y="290" fill="#111111" font-family="Arial, sans-serif" font-size="70" font-weight="800">MAULANA</text>
+<text x="520" y="290" fill="url(#g)" font-family="Arial, sans-serif" font-size="70" font-weight="800" filter="url(#glow)">.DEV</text>
+
+<text x="88" y="335" fill="#00d9ff" font-family="monospace" font-size="20">FULL-STACK WEB DEVELOPER</text>
+<text x="88" y="365" fill="#666666" font-family="monospace" font-size="15">web • backend • ai • automation</text>
+
+<circle cx="1090" cy="85" r="7" fill="#00ff88">
+  <animate attributeName="opacity" values="1;.25;1" dur="1.2s" repeatCount="indefinite"/>
+</circle>
+<text x="1108" y="91" fill="#00ff88" font-family="monospace" font-size="13">ONLINE</text>
+</svg>
