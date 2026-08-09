@@ -10,10 +10,10 @@
 <a href="https://github.com/Lanmaulana">
   <img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=00ff88" alt="GitHub">
 </a>
-<a href="https://YOUR-PORTFOLIO.com">
+<a href="https://xymaul.vercel.app">
   <img src="https://img.shields.io/badge/PORTFOLIO-050505?style=for-the-badge&logo=vercel&logoColor=00d9ff" alt="Portfolio">
 </a>
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:Lanmaulana470@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=ff4b8b" alt="Email">
 </a>
 
