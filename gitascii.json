@@ -1,0 +1,163 @@
+{
+  "widgets": [
+    {
+      "widgetId": "codeweb-retro-grid",
+      "name": "Codeweb-retro-grid Widget",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 792,
+        "height": 276
+      },
+      "config": {
+        "selectedTechs": [
+          "html",
+          "css",
+          "js",
+          "py",
+          "php",
+          "react",
+          "vue",
+          "tailwind",
+          "bootstrap",
+          "vite",
+          "mui",
+          "alpinejs",
+          "nodejs",
+          "laravel",
+          "mysql",
+          "mongodb",
+          "firebase",
+          "supabase",
+          "git",
+          "github",
+          "vercel",
+          "netlify",
+          "vscode",
+          "linux",
+          "cloudflare",
+          "npm",
+          "apache",
+          "yarn"
+        ],
+        "technologies": [
+          "html",
+          "css",
+          "js",
+          "py",
+          "php",
+          "react",
+          "vue",
+          "tailwind",
+          "bootstrap",
+          "vite",
+          "mui",
+          "alpinejs",
+          "nodejs",
+          "laravel",
+          "mysql",
+          "mongodb",
+          "firebase",
+          "supabase",
+          "git",
+          "github",
+          "vercel",
+          "netlify",
+          "vscode",
+          "linux",
+          "cloudflare",
+          "npm",
+          "apache",
+          "yarn"
+        ],
+        "displayMode": "logo",
+        "customTitle": "",
+        "title": "Tech S",
+        "accentColor": "#ff3366",
+        "secondaryColor": "#ffff55",
+        "hideBorder": true,
+        "hideDecorations": true,
+        "showTitle": true,
+        "animationType": "flip-y",
+        "animationPreviewKey": 11,
+        "animationDuration": 2000
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 1,
+      "instanceId": "widget_1790400474258_0"
+    },
+    {
+      "widgetId": "codeweb-showcase-cards",
+      "name": "Codeweb-showcase-cards Widget",
+      "position": {
+        "x": 0,
+        "y": 276
+      },
+      "size": {
+        "width": 800,
+        "height": 220
+      },
+      "config": {
+        "card2GifUrl": "https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YmpzNDRiOTNhbDZhbmhncGJjemlsdmR3MGttMXBueXRpbWhlanE0cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UC8DbMqXvkpd6/giphy.gif",
+        "leftGifUrl": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmw4cWVyazZyZTlyeTkxc2VjMW5xY3lrdTN1dHVndmlhazk3ZHZlOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SnVZO1N0Wo6u4/giphy.gif",
+        "card1GifUrl": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmw4cWVyazZyZTlyeTkxc2VjMW5xY3lrdTN1dHVndmlhazk3ZHZlOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qb1eHxhUHLdsc/giphy.gif",
+        "animationType": "flip-x",
+        "animationPreviewKey": 10,
+        "animationDuration": 2000
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 2,
+      "instanceId": "widget_1790400474258_1"
+    },
+    {
+      "widgetId": "codeweb-social-badge",
+      "name": "Codeweb-social-badge Widget",
+      "position": {
+        "x": 0,
+        "y": 512
+      },
+      "size": {
+        "width": 800,
+        "height": 44
+      },
+      "config": {
+        "platforms": [
+          "medium",
+          "email",
+          "website",
+          "gmail",
+          "linkedin",
+          "github",
+          "instagram",
+          "facebook",
+          "discord",
+          "portfolio"
+        ],
+        "renderMode": "multi",
+        "showText": true,
+        "animationType": "glitch",
+        "animationPreviewKey": 1
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 3,
+      "instanceId": "widget_1790400474258_2"
+    }
+  ],
+  "globalStyles": {
+    "backgroundColor": "#0a0a14",
+    "textColor": "#d6e0f0",
+    "accentColor": "#6cc382",
+    "borderColor": "#1e1e38",
+    "fontFamily": "'JetBrains Mono', monospace",
+    "borderRadius": 0,
+    "padding": 24,
+    "themeMode": "dark",
+    "templateStyle": "codeweb"
+  },
+  "templateId": "codeweb"
+}
