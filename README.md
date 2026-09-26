@@ -1,55 +1,5 @@
-<div align="center">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark/header.svg">
-  <img src="light/header.svg" alt="Maulana Developer">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lanmaulana/lanmaulana/gitascii/profiles/default/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lanmaulana/lanmaulana/gitascii/profiles/default/light.svg">
+  <img alt="GitAscii Profile" src="https://raw.githubusercontent.com/lanmaulana/lanmaulana/gitascii/profiles/default/dark.svg" width="100%">
 </picture>
-
-<br>
-
-<a href="https://github.com/Lanmaulana">
-  <img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=00ff88" alt="GitHub">
-</a>
-<a href="https://xymaul.vercel.app">
-  <img src="https://img.shields.io/badge/PORTFOLIO-050505?style=for-the-badge&logo=vercel&logoColor=00d9ff" alt="Portfolio">
-</a>
-<a href="mailto:Lanmaulana470@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=ff4b8b" alt="Email">
-</a>
-
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark/whoami.svg">
-  <img src="light/whoami.svg" alt="About Maulana">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark/system.svg">
-  <img src="light/system.svg" alt="System map">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark/projects.svg">
-  <img src="light/projects.svg" alt="Projects">
-</picture>
-
-<div align="center">
-
-### `CONTRIBUTION TELEMETRY`
-
-<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lanmaulana&bg_color=00000000&color=00ff88&line=00ff88&point=00d9ff&area_color=00ff88&area=true&hide_border=true&radius=8&custom_title=" alt="GitHub contribution graph">
-
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark/stack.svg">
-  <img src="light/stack.svg" alt="Technical stack">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark/footer.svg">
-  <img src="light/footer.svg" alt="System online">
-</picture>
-
-<!-- Replace YOUR-PORTFOLIO.com and YOUR_EMAIL@example.com -->
