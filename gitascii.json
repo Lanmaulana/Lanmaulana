@@ -1,4 +1,5 @@
 {
+  "username": "Lanmaulana",
   "widgets": [
     {
       "widgetId": "codeweb-retro-grid",
@@ -84,7 +85,7 @@
         "animationPreviewKey": 11,
         "animationDuration": 2000
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 1,
       "instanceId": "widget_1790400474258_0"
@@ -159,5 +160,10 @@
     "themeMode": "dark",
     "templateStyle": "codeweb"
   },
-  "templateId": "codeweb"
+  "templateId": "codeweb",
+  "profileSlug": "default",
+  "metadata": {
+    "revision": "rev_1790402270504_7jzxk",
+    "updatedAt": "2026-09-26T05:57:52.205Z"
+  }
 }
