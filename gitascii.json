@@ -147,6 +147,51 @@
       "visible": true,
       "zIndex": 3,
       "instanceId": "widget_1790400474258_2"
+    },
+    {
+      "instanceId": "widget_1790402522110",
+      "widgetId": "surveillance-loadout",
+      "name": "Surveillance-loadout Widget",
+      "position": {
+        "x": 12,
+        "y": 572
+      },
+      "size": {
+        "width": 780,
+        "height": 208
+      },
+      "config": {
+        "accentColor": "#c084fc",
+        "customTitle": "Daily Loadout",
+        "secondaryColor": "#55ffff",
+        "ledColor": "#ff55ff",
+        "workflow": [
+          "VS Code",
+          "Git",
+          "Docker",
+          "Terminal",
+          "PowerShell",
+          "Linux",
+          "GitHub",
+          "Vercel",
+          "Netlify",
+          "Cloudflare",
+          "Yarn",
+          "Apache",
+          "npm"
+        ],
+        "languages": [
+          "HTML",
+          "CSS3",
+          "JavaScript",
+          "PHP",
+          "Bash",
+          "Dart"
+        ]
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 5
     }
   ],
   "globalStyles": {
@@ -163,7 +208,7 @@
   "templateId": "codeweb",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1790402270504_7jzxk",
-    "updatedAt": "2026-09-26T05:57:52.205Z"
+    "revision": "rev_1790402957503_z8hci",
+    "updatedAt": "2026-09-26T06:09:19.998Z"
   }
 }
